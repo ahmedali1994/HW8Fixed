@@ -1,0 +1,26 @@
+﻿body
+{
+    background-color: #2a1b2f;
+}
+.one{
+    background-color: #ff0000;
+    margin-left: 250px;
+    height: 150px;
+}
+.two{
+    background-color: #0082ff;
+    margin-left: 250px;
+    height: 150px;
+    
+}
+.three{
+    background-color: #009d00;
+    margin-left: 250px;
+    height: 150px;
+}
+#msg{
+    
+    font-size: 40px;
+    color: azure;
+    text-align: center;
+}
